@@ -25,7 +25,9 @@ Use the command: "Open file <fileName>" to search for your file.
 ⛅ **Weather Updates**: Get quick weather reports using `wttr.in`.
 
 ### How to use VARSA on your device❓
-1. Download the **gui.exe** from the repository
+1. Download the **gui.exe** from the following google drive link:
+   
+   https://drive.google.com/file/d/1yQgoXNhvKzyXCOuAmq0lkgzsYhJ0GziP/view?usp=drive_link
 2. **Double-click** the **gui.exe** file to start VARSA
 3. Before speaking a command, click the '🎙️' button
 
